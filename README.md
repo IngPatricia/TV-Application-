@@ -26,3 +26,5 @@ However, I did not include a get & set method as shown in yellow on the first im
 ### Conclusion 
 Despite of this assignment having simple lines of code, it includes important topics learnt in my class. It is simple looking back at it, but it took me time to 
 figure it out as it was my first assesment in Java and in OOP. Overall, I enjoyed it 😀
+
+Educational purposes only - please don't copy. ###Learn 
